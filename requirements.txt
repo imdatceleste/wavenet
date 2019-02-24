@@ -1,0 +1,6 @@
+tensorflow~>=1.4
+keras~>=2.1.0
+picklable_itertools~=0.1.1
+h5py~=2.6.0
+tqdm~=4.8.4
+q~=2.6
